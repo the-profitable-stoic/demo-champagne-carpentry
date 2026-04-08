@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Champagne Carpentry",
+    "phone": "+16237779520",
+    "category": "carpenter",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Phoenix's Trusted Carpenter",
+      "heroSubline": "Precision carpentry, built to withstand the Arizona elements. From custom builds to essential repairs, we deliver lasting quality.",
+      "aboutTitle": "Built on Craftsmanship & Grit",
+      "aboutText": [
+        "Champagne Carpentry started with a simple goal: to bring uncompromising quality to Phoenix homes. Founded by a third-generation carpenter, we understand the unique challenges this desert environment poses to structures.",
+        "We don't cut corners. We use only the best materials and time-tested techniques to ensure our work stands the test of time. Our commitment to excellence is evident in every project, large or small.",
+        "We're not just building structures; we're building relationships within the Phoenix community. We believe in clear communication, fair pricing, and exceeding expectations, one project at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Phoenix architecture and climate demands."
+        },
+        {
+          "title": "Unwavering Quality",
+          "description": "Durable materials and precise craftsmanship are our standards."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "We keep you informed throughout the entire process."
+        },
+        {
+          "title": "Reliable Results",
+          "description": "Projects completed on time and within budget, guaranteed."
+        }
+      ],
+      "ctaHeadline": "Ready to Build Something Great?",
+      "ctaSubline": "Contact Champagne Carpentry for a free consultation and let's discuss your project."
+    },
+    "services": [
+      {
+        "slug": "custom-decks-patios",
+        "name": "Custom Decks & Patios",
+        "shortDescription": "Elevate your outdoor living space with a custom-designed deck or patio.",
+        "description": "Transform your backyard into an oasis with a custom deck or patio designed to withstand the Arizona heat. We handle everything from initial design to final construction, ensuring a seamless process. We specialize in using weather-resistant materials that can endure the intense sun and monsoon seasons, preventing warping, fading, and cracking. Consider composite decking for low maintenance or opt for naturally durable hardwoods like Ipe. We can integrate features like pergolas, built-in seating, outdoor kitchens, and fire pits to create the perfect entertainment space. Our team is skilled in working with various materials, including wood, composite, and concrete, allowing us to bring your vision to life. We also ensure proper drainage and structural integrity to protect your investment for years to come. Let us help you create an outdoor living space you'll love.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision and create a detailed plan.",
+          "Step 2: Material Selection – Choose from a range of durable, weather-resistant materials.",
+          "Step 3: Construction – Our skilled team builds your deck or patio with precision.",
+          "Step 4: Final Inspection – We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Durable and weather-resistant construction",
+          "Custom designs to fit your style"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for decks in Phoenix?",
+            "answer": "Composite decking and naturally durable hardwoods like Ipe are excellent choices due to their resistance to heat, UV rays, and moisture."
+          },
+          {
+            "question": "How long does it take to build a custom deck?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but we provide a detailed schedule during the consultation phase."
+          },
+          {
+            "question": "Do I need a permit for a new deck or patio?",
+            "answer": "Permitting requirements vary by city in the Phoenix metro area. We handle all necessary permits to ensure compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "custom-cabinetry-shelving",
+        "name": "Custom Cabinetry & Shelving",
+        "shortDescription": "Maximize your storage and style with custom-built cabinets and shelving.",
+        "description": "From kitchen renovations to home office solutions, we design and build custom cabinetry and shelving to meet your specific needs. In Phoenix homes, functionality is key, especially in older block construction houses where storage can be limited. We use high-quality materials and precise craftsmanship to create durable and beautiful storage solutions. Whether you prefer modern designs or classic styles, we can bring your vision to life. Our services include kitchen cabinets, bathroom vanities, built-in bookshelves, entertainment centers, and custom closets. We pay close attention to detail, ensuring seamless integration with your existing décor. We also offer a variety of finishes and hardware options to customize your space. With our expertise, you can transform any room into a functional and stylish space that reflects your personal taste. Dealing with the Arizona sun can be tough on finishes, so we only use the best.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your storage needs and design preferences.",
+          "Step 2: Material Selection – Choose from a variety of woods, finishes, and hardware.",
+          "Step 3: Custom Fabrication – We build your cabinets and shelving to your exact specifications.",
+          "Step 4: Professional Installation – Our team ensures a perfect fit and finish."
+        ],
+        "benefits": [
+          "Optimized storage space",
+          "Enhanced home aesthetics",
+          "Custom designs to fit your needs",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of wood are best for custom cabinetry?",
+            "answer": "Hardwoods like maple, cherry, and oak are popular choices for their durability and beauty. We can also use engineered wood products for added stability in the Arizona climate."
+          },
+          {
+            "question": "How much does custom cabinetry cost?",
+            "answer": "The cost depends on the size, materials, and complexity of the project. We provide a detailed quote after the initial consultation."
+          },
+          {
+            "question": "Can you match existing cabinetry in my home?",
+            "answer": "Yes, we can match existing styles, finishes, and hardware to ensure a seamless look."
+          }
+        ]
+      },
+      {
+        "slug": "door-window-installation",
+        "name": "Door & Window Installation",
+        "shortDescription": "Improve your home's energy efficiency and security with professional door and window installation.",
+        "description": "Properly installed doors and windows are crucial for energy efficiency and security in Phoenix homes. We offer professional installation services for a wide range of doors and windows, including entry doors, patio doors, and energy-efficient windows. We understand the importance of proper sealing and insulation to keep your home cool in the summer and warm in the winter. We work with various materials, including wood, fiberglass, and vinyl, to match your style and budget. Our team ensures precise installation to prevent drafts, leaks, and security vulnerabilities. We also handle the removal and disposal of old doors and windows. With our expertise, you can improve your home's comfort, energy efficiency, and curb appeal. We know the importance of a good seal to keep that Arizona heat out!",
+        "process": [
+          "Step 1: Consultation and Measurement – We assess your needs and provide accurate measurements.",
+          "Step 2: Product Selection – Choose from a wide range of doors and windows.",
+          "Step 3: Professional Installation – Our team ensures a precise and secure fit.",
+          "Step 4: Final Inspection – We verify proper functionality and sealing."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced home security",
+          "Increased property value",
+          "Reduced noise pollution"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows reduce heat transfer, lower energy bills, and improve indoor comfort. They also block harmful UV rays, protecting your furniture and flooring."
+          },
+          {
+            "question": "How long does it take to install a new door or window?",
+            "answer": "The installation time depends on the number of doors or windows being installed and the complexity of the project. We provide an estimated timeline during the consultation."
+          },
+          {
+            "question": "Do you offer window and door repair services?",
+            "answer": "In addition to installation, we also offer repair services for damaged or malfunctioning doors and windows."
+          }
+        ]
+      },
+      {
+        "slug": "structural-repairs",
+        "name": "Structural Repairs",
+        "shortDescription": "Ensure the safety and stability of your home with expert structural repair services.",
+        "description": "Addressing structural issues promptly is essential for maintaining the integrity of your Phoenix home. We offer comprehensive structural repair services, including foundation repair, wall bracing, and roof reinforcement. We understand the unique challenges posed by the Arizona climate and soil conditions. Our team has the expertise to diagnose and repair a wide range of structural problems. We use advanced techniques and high-quality materials to ensure lasting repairs. Whether you have cracks in your foundation or sagging walls, we can provide effective solutions. We work closely with engineers and inspectors to ensure compliance with local building codes. With our expertise, you can restore the structural integrity of your home and protect your investment. We know the value of a strong foundation in the desert heat!",
+        "process": [
+          "Step 1: Structural Assessment – We conduct a thorough inspection to identify the problem.",
+          "Step 2: Repair Plan – We develop a detailed repair plan with cost estimates.",
+          "Step 3: Structural Repairs – Our team performs the necessary repairs with precision.",
+          "Step 4: Final Inspection – We ensure the repairs meet safety and code requirements."
+        ],
+        "benefits": [
+          "Ensured home safety and stability",
+          "Prevention of further damage",
+          "Increased property value",
+          "Compliance with building codes"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of structural damage?",
+            "answer": "Signs of structural damage include cracks in the foundation, sagging floors, leaning walls, and sticking doors or windows."
+          },
+          {
+            "question": "How much does structural repair cost?",
+            "answer": "The cost depends on the extent of the damage and the complexity of the repairs. We provide a detailed quote after the initial assessment."
+          },
+          {
+            "question": "Do you offer foundation repair services?",
+            "answer": "Yes, we offer a full range of foundation repair services, including crack repair, slab jacking, and underpinning."
+          }
+        ]
+      },
+      {
+        "slug": "stucco-repair",
+        "name": "Stucco Repair",
+        "shortDescription": "Restore the beauty and integrity of your stucco with our expert repair services.",
+        "description": "Stucco is a common exterior finish in Phoenix, but it can be susceptible to cracks and damage from the intense sun and monsoon rains. Champagne Carpentry offers expert stucco repair services to restore the beauty and integrity of your home. We match existing textures and colors to ensure a seamless repair. Our team is skilled in repairing cracks, patching holes, and applying new stucco coatings. We use high-quality materials that are designed to withstand the Arizona climate. We also offer preventative maintenance services to protect your stucco from future damage. With our expertise, you can maintain the curb appeal and value of your home. Don't let the Arizona sun crack your exterior!",
+        "process": [
+          "Step 1: Assessment – We inspect the stucco to identify the damage.",
+          "Step 2: Preparation – We clean and prepare the surface for repair.",
+          "Step 3: Repair – We patch cracks, fill holes, and apply new stucco.",
+          "Step 4: Finishing – We match the texture and color for a seamless finish."
+        ],
+        "benefits": [
+          "Restored stucco appearance",
+          "Prevention of water damage",
+          "Increased property value",
+          "Protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "What causes stucco damage?",
+            "answer": "Stucco damage can be caused by weather, settling, impact, and improper installation."
+          },
+          {
+            "question": "How often should I inspect my stucco?",
+            "answer": "It's recommended to inspect your stucco at least once a year, especially after monsoon season."
+          },
+          {
+            "question": "Can you match the existing stucco texture?",
+            "answer": "Yes, we specialize in matching existing textures and colors for a seamless repair."
+          }
+        ]
+      },
+      {
+        "slug": "tile-roof-repair",
+        "name": "Tile Roof Repair",
+        "shortDescription": "Protect your home with expert tile roof repair services.",
+        "description": "Tile roofs are popular in Phoenix for their durability and aesthetic appeal, but they require regular maintenance to prevent leaks and damage. Champagne Carpentry offers expert tile roof repair services to keep your home protected. We replace broken or cracked tiles, repair flashing, and address any underlying structural issues. Our team is experienced in working with various types of tile roofs, including clay, concrete, and slate. We use high-quality materials and proven techniques to ensure lasting repairs. We also offer roof inspections to identify potential problems before they become major issues. With our expertise, you can extend the life of your tile roof and protect your home from the elements. We understand the importance of a solid roof in the Arizona weather!",
+        "process": [
+          "Step 1: Roof Inspection – We assess the condition of your tile roof.",
+          "Step 2: Repair Plan – We develop a detailed repair plan with cost estimates.",
+          "Step 3: Tile Replacement – We replace broken or cracked tiles.",
+          "Step 4: Flashing Repair – We repair or replace damaged flashing."
+        ],
+        "benefits": [
+          "Protection from leaks and water damage",
+          "Extended roof lifespan",
+          "Increased property value",
+          "Improved home aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my tile roof inspected?",
+            "answer": "It's recommended to have your tile roof inspected at least once a year, especially after major weather events."
+          },
+          {
+            "question": "What are the signs of a damaged tile roof?",
+            "answer": "Signs of a damaged tile roof include broken or cracked tiles, missing tiles, and water leaks."
+          },
+          {
+            "question": "Can you match the existing tile color?",
+            "answer": "Yes, we can match the existing tile color and style for a seamless repair."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Champagne Carpentry is proud to offer expert carpentry services to the discerning homeowners of Scottsdale, Arizona. From the iconic architecture of Taliesin West to the luxurious estates dotting the McDowell Mountains, we understand the unique aesthetic and structural demands of Scottsdale properties. Our skilled craftsmen are adept at working with a variety of materials, ensuring your project blends seamlessly with the Southwestern charm of your home.\n\nWe specialize in custom woodworking, from elegant cabinetry and trim to durable outdoor structures designed to withstand Scottsdale's extreme summer heat. Whether you're renovating a classic ranch-style home or building a new desert oasis, Champagne Carpentry delivers exceptional quality and attention to detail. We are committed to providing Scottsdale residents with reliable, professional carpentry services that enhance the beauty and value of their homes.",
+        "localContext": "Scottsdale is known for its luxury Southwestern estates and hot desert climate, with summer temperatures frequently exceeding 110°F.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Fountain Hills"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "Champagne Carpentry is dedicated to providing top-notch carpentry services to the residents of Mesa, Arizona. Known for its established neighborhoods featuring many 1970s and 80s stucco homes, Mesa presents unique opportunities for renovation and upgrades. We understand the architectural nuances of these homes and tailor our services to meet your specific needs.\n\nOur expertise includes kitchen and bathroom remodeling, custom cabinet installation, and patio cover construction designed to withstand the Arizona climate. We're committed to helping Mesa homeowners revitalize their properties with high-quality craftsmanship and durable materials. From small repairs to full-scale renovations, Champagne Carpentry is your trusted partner in Mesa.",
+        "localContext": "Mesa features a significant number of 1970s and 80s stucco homes and experiences extreme summer heat, regularly exceeding 110°F.",
+        "nearbyAreas": [
+          "Tempe",
+          "Gilbert",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Champagne Carpentry proudly serves the community of Chandler, Arizona, providing exceptional carpentry solutions for its many planned developments built in the 1990s and 2000s. We understand the common architectural styles and construction techniques prevalent in these neighborhoods, allowing us to deliver tailored services that meet your specific requirements.\n\nOur services range from custom entertainment centers and home office build-outs to patio extensions and pergola installations. We prioritize quality craftsmanship and use durable materials to ensure your projects withstand the harsh Arizona climate. With Champagne Carpentry, Chandler residents can enhance their homes with both beauty and functionality.",
+        "localContext": "Chandler is characterized by planned developments from the 1990s and 2000s and experiences extreme summer heat, with temperatures often exceeding 110°F.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Champagne Carpentry is pleased to offer premium carpentry services to the growing community of Gilbert, Arizona. Known for its newer construction homes built from the 2000s to the 2020s, Gilbert offers exciting opportunities for homeowners seeking to personalize and enhance their living spaces. We're equipped to handle everything from modern kitchen remodels to custom outdoor living areas.\n\nWe specialize in creating functional and stylish solutions that complement the contemporary aesthetic of Gilbert homes. Whether you're looking to add a custom deck, install new cabinetry, or create a unique accent wall, Champagne Carpentry delivers exceptional results with attention to detail. We are dedicated to providing Gilbert residents with reliable, professional carpentry services that exceed their expectations.",
+        "localContext": "Gilbert features newer construction homes built from the 2000s to the 2020s and faces extreme summer heat, commonly exceeding 110°F.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Champagne Carpentry provides expert carpentry services to the vibrant community of Tempe, Arizona, including many university-area homes near Arizona State University. We understand the unique needs of Tempe homeowners, from maximizing space in smaller homes to updating older properties with modern features.\n\nWe offer a wide range of services, including kitchen and bathroom renovations, custom shelving solutions, and durable outdoor structures designed to withstand the Arizona heat. Whether you're a student, a young professional, or a long-time resident, Champagne Carpentry is committed to delivering high-quality craftsmanship and exceptional customer service in Tempe.",
+        "localContext": "Tempe is a university town, home to Arizona State University, and experiences extreme summer heat where temperatures often exceed 110°F.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Mesa",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Champagne Carpentry is proud to serve the diverse needs of Phoenix, Arizona residents with our comprehensive carpentry services. From historic homes in downtown Phoenix to modern residences in the suburbs, we have the expertise to handle any project, big or small. We are committed to providing Phoenix homeowners with exceptional craftsmanship and reliable service.\n\nOur services include custom cabinetry, trim work, flooring installation, and outdoor living space construction. We understand the challenges of the Arizona climate and use durable materials to ensure your projects stand the test of time. Whether you're renovating a historic bungalow or building a new custom home, Champagne Carpentry is your trusted partner in Phoenix.",
+        "localContext": "Phoenix is a large metropolitan area with diverse architectural styles and a climate characterized by extreme summer heat.",
+        "nearbyAreas": [
+          "Tempe",
+          "Scottsdale",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Paradise Valley",
+        "slug": "paradise-valley-az",
+        "state": "AZ",
+        "content": "Champagne Carpentry brings unparalleled craftsmanship to Paradise Valley, Arizona, a town renowned for its luxury homes and stunning desert landscapes. We understand the high standards and unique architectural styles found in this exclusive community. Our team is dedicated to providing bespoke carpentry services that enhance the elegance and value of your property.\n\nWe specialize in custom woodworking, including intricate trim details, bespoke cabinetry, and outdoor structures designed to seamlessly integrate with the natural beauty of Paradise Valley. From grand estates to charming villas, Champagne Carpentry is committed to delivering exceptional quality and personalized service to Paradise Valley residents.",
+        "localContext": "Paradise Valley is known for its luxury homes, stunning desert landscapes, and extreme summer heat.",
+        "nearbyAreas": [
+          "Scottsdale",
+          "Phoenix",
+          "Fountain Hills"
+        ]
+      },
+      {
+        "city": "Queen Creek",
+        "slug": "queen-creek-az",
+        "state": "AZ",
+        "content": "Champagne Carpentry offers premier carpentry services to the growing community of Queen Creek, Arizona. Known for its family-friendly atmosphere and newer residential developments, Queen Creek provides an ideal setting to create beautiful and functional living spaces. We are committed to providing homeowners in Queen Creek with exceptional craftsmanship and personalized service.\n\nOur services include custom entertainment centers, home office designs, outdoor patio covers, and durable shade structures. We use high-quality materials to ensure your projects can withstand the Arizona climate. With Champagne Carpentry, Queen Creek residents can enhance their homes with quality and beauty.",
+        "localContext": "Queen Creek is characterized by newer residential developments and experiences extreme summer heat with temperatures often exceeding 110°F.",
+        "nearbyAreas": [
+          "Gilbert",
+          "San Tan Valley",
+          "Chandler"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Custom Cabinetry",
+        "text": "Champagne Carpentry built custom cabinets for my kitchen remodel. The quality is outstanding, and they perfectly matched my vision. The team was professional and efficient, and the price was fair. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David B.",
+        "rating": 4,
+        "service": "Stucco Repair",
+        "text": "I had some cracks in my stucco after the monsoon season. Champagne Carpentry did a great job repairing them and matching the existing texture. Quick, efficient, and reasonably priced.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Deck Installation",
+        "text": "We hired Champagne Carpentry to build a new deck in our backyard. They did an amazing job! The deck is beautiful and sturdy, and we've already spent so much time enjoying it. Great communication throughout the process.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Door Installation",
+        "text": "Excellent service! Champagne Carpentry installed a new front door for us. The installation was flawless, and the door looks fantastic. They were punctual, professional, and cleaned up after themselves. Highly recommended!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Linda M.",
+        "rating": 4,
+        "service": "Tile Roof Repair",
+        "text": "Champagne Carpentry repaired some broken tiles on my roof. They were prompt, courteous, and did a thorough job. I appreciate their attention to detail and fair pricing.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Structural Repairs",
+        "text": "I had some concerns about the foundation of my home. Champagne Carpentry came out and assessed the situation. I was relieved when they were able to fix things quickly and professionally. Great service!",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Champagne Carpentry | Phoenix Carpenter",
+        "description": "Expert carpentry services in Phoenix, AZ. Custom decks, cabinets, stucco & tile repair. Quality craftsmanship, reliable results."
+      },
+      "about": {
+        "title": "About Champagne Carpentry | Phoenix, AZ",
+        "description": "Learn about Champagne Carpentry's commitment to quality and community in Phoenix. Experienced carpenters you can trust."
+      },
+      "services": {
+        "title": "Phoenix Carpenter Services | Champagne Carpentry",
+        "description": "Comprehensive carpentry services in Phoenix: decks, cabinets, stucco, tile roofs, structural repairs. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Champagne Carpentry | Phoenix, AZ",
+        "description": "Get in touch with Champagne Carpentry for a free consultation. Serving Phoenix, Scottsdale, Mesa, Chandler, Gilbert, and Tempe."
+      },
+      "reviews": {
+        "title": "Champagne Carpentry Reviews | Phoenix, AZ",
+        "description": "Read what our satisfied customers are saying about Champagne Carpentry. Quality carpentry services in Phoenix and surrounding areas."
+      },
+      "service-areas": {
+        "title": "Champagne Carpentry Service Areas",
+        "description": "Champagne Carpentry proudly serves Phoenix, Scottsdale, Mesa, Chandler, Gilbert, and Tempe, AZ. Contact us for your carpentry needs."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-decks-patios": "/images/service-custom-decks-patios.webp",
+      "custom-cabinetry-shelving": "/images/service-custom-cabinetry-shelving.webp",
+      "door-window-installation": "/images/service-door-window-installation.webp",
+      "structural-repairs": "/images/service-structural-repairs.webp",
+      "stucco-repair": "/images/service-stucco-repair.webp",
+      "tile-roof-repair": "/images/service-tile-roof-repair.webp"
+    },
+    "servicesResponsive": {
+      "custom-decks-patios": {
+        "src": "/images/service-custom-decks-patios.webp",
+        "srcset": "/images/service-custom-decks-patios-400w.webp 400w, /images/service-custom-decks-patios-800w.webp 800w, /images/service-custom-decks-patios-1200w.webp 1200w, /images/service-custom-decks-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-cabinetry-shelving": {
+        "src": "/images/service-custom-cabinetry-shelving.webp",
+        "srcset": "/images/service-custom-cabinetry-shelving-400w.webp 400w, /images/service-custom-cabinetry-shelving-800w.webp 800w, /images/service-custom-cabinetry-shelving-1200w.webp 1200w, /images/service-custom-cabinetry-shelving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "door-window-installation": {
+        "src": "/images/service-door-window-installation.webp",
+        "srcset": "/images/service-door-window-installation-400w.webp 400w, /images/service-door-window-installation-800w.webp 800w, /images/service-door-window-installation-1200w.webp 1200w, /images/service-door-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "structural-repairs": {
+        "src": "/images/service-structural-repairs.webp",
+        "srcset": "/images/service-structural-repairs-400w.webp 400w, /images/service-structural-repairs-800w.webp 800w, /images/service-structural-repairs-1200w.webp 1200w, /images/service-structural-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stucco-repair": {
+        "src": "/images/service-stucco-repair.webp",
+        "srcset": "/images/service-stucco-repair-400w.webp 400w, /images/service-stucco-repair-800w.webp 800w, /images/service-stucco-repair-1200w.webp 1200w, /images/service-stucco-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-roof-repair": {
+        "src": "/images/service-tile-roof-repair.webp",
+        "srcset": "/images/service-tile-roof-repair-400w.webp 400w, /images/service-tile-roof-repair-800w.webp 800w, /images/service-tile-roof-repair-1200w.webp 1200w, /images/service-tile-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
